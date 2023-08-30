@@ -7,7 +7,7 @@ Full Stack Developer and Product Manager
 Tech-loving product manager & software developer in Jacksonville, FL. Bridging the gap between product management & programming for successful outcomes.
 
 * 🌍  I'm based in Jacksonville, FL
-* 🖥️  See my portfolio at [carlogy.github.io](http://carlogy.github.io/myportfolio/)
+* 🖥️  See my portfolio at [carlogy.github.io](https://carlogy.github.io/my-portoflio/)
 * 🧠  I'm learning I am learning full-stack development. Currently focused on C#/.Net and ReactJS.
 * 🤝  I'm open to collaborating on Anything and everything!
 
