@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and Product Manager
 ----------------------------------------
 
-Tech-loving product manager & software developer in Jacksonville, FL. Bridging the gap between product management & programming for successful outcomes.
+Tech-loving QA Engineer & Software Developer in Jacksonville, FL. Bridging the gap between product management & programming for successful outcomes.
 
 * 🌍  I'm based in Jacksonville, FL
 * 🧠  I'm learning full stack web development
