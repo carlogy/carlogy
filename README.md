@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlo
 =============================================================================================================================
 
-Full Stack Developer and Product Manager
+QA Engineer and Fullstack Web Developer 
 ----------------------------------------
 
-Tech-loving Software QA Engineer & Software Developer in Jacksonville, FL! 
+QA Engineer specializing in integrations and APIs within the FinTech industry.
 
 * 🌍  I'm based in Jacksonville, FL
 * 🧠  I'm learning full stack web development
